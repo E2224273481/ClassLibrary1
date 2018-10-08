@@ -17,6 +17,7 @@ namespace ClassLibrary1
         private void Addaaa()
         {
             a = b + c;
+            a++;
             Console.Write(a);
         }
     }
